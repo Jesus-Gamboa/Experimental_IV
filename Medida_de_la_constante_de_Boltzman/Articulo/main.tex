@@ -1,5 +1,4 @@
 \documentclass[reprint, twocolumn]{revtex4-2} %formato
-\usepackage[T1]{fontenc} %formato
 \usepackage{graphicx} % graficos
 \usepackage{amsmath} %matrices
 
@@ -30,13 +29,54 @@
 \vspace{-0.3cm}
 
 \section{Marco teórico}
+\subsection{Bondad de Ajuste y Test de Hipótesis}
+Inicialmente definamos a una hipótesis como aquella suposición que se plantea respecto a alguna población o problema con el fin de verificar su verácidad o falsedad. Adicionalmente, definimos como hipótesis nula $H_0$ a aquella hipótesis que inicialmente se asume como cierta con la finalidad de verificarla o falsarla y llamaremos como hipótesis alternativa $H_a$ a una suposición que sea contraria  a la hipótesis nula. Cabe aclarar que tanto la hipótesis nula como la alternativa deben ser mutuamente excluyentes -contrarias entre sí-. Se le llama test de hipótesis como aquel proceso mediante el cual se busca aceptar o rechazar la hipótesis nula. Sin embargo, es necesario aclarar que este es un proceso probabilístico y no absoluto, por lo cual, que la hipótesis nula sea verdadera o falsa no es un hecho inequívoco. Para poder verificar o falsar la hipótesis nula, existen múltiples herramientas como una llamada  <<\textit{Bondad de Ajuste}>> con la cuál podemos determinar si ciertos datos experimentales se ajustan a una distribucción determinada~\cite{marques1991probabilidad}.
+\subsection{Distribucción Chi Cuadrado}
 
-\subsection{Test de Chi cuadrado $\chi $}
+Si se considera que ciertos datos siguen una distribucción o expresión matemática determinada, se puede calcular a Chi cuadrado como~\cite{spiegel2009estadistica}:
+\begin{equation}
+    \chi^2=\sum_{j=1}^n \frac{(h(x_k)- NP(x_j)^2}{\sigma_j^2}~\cite{bevington2003data}
+\end{equation}
+Donde:
 
+$h(x_j)$: representa los valores observados experimentalmente.
+
+$NP(x_j)$: valor teórico que la distribución o expresión matemática predice.
+
+$\sigma_j^2$: Incertidumbre asociada a cada medición.
+
+Finalmente, después de realizar la distribucción de Chi Cuadrado hay que considerar cómo se va a concluir y bajo que condiciones se va a decir que la hipótesis nula se cumple. Así, se define el nivel de significancia ($\alpha$) como la probabilidad de rechazar la hipótesis nula aunque ésta sea cierta. Usualmente en física experimental se emplea un nivel de significancia igual al $5\%$~\cite{marques1991probabilidad}.
+\subsection{Grados de Libertad y Valor Crítico}
+Los grados de libertad de una distribución pueden calcularse como:
+\begin{equation}
+    \nu=n-m-1 ~\cite{sirca2016probability}
+\end{equation}
+Donde cada término se define como:
+
+n: Número de clases o bines independientes en los que se han agrupado los datos del histograma.
+
+m: Número de datos que no son conocidos a priori y que hay que determinarse mediante los datos obtenidos experimentalmente ~\cite{sirca2016probability}.
+
+Ahora, el valor crítico se define como aquel valor del cuál, si chi-cuadrado es mayor que el valor crítico entonces se rechaza la hipótesis nula, si es menor al valor crítico, entonces se acepta la hipótesis nula. A partir del nivel de significancia se puede calcular el valor crítico como~\cite{sirca2016probability}:
+\begin{equation}
+\alpha = \int_{x_*}^{\infty} f(x; \theta_0) , dx ~\cite{sirca2016probability}
+\end{equation}
+Donde:
+
+$x_*$: Valor crítico.
+
+$f(x;\theta)$: Función densidad de probabilidad del estadístico de prueba bajo la hipótesis nula que es caracterizada por el parámetro $\theta$.
+$\alpha$: Nivel de significancia.
+
+Adicionalmente también puede definirse al chi-cuadrado normalizado como:
+\begin{equation}
+ \chi_v^2=\frac{\chi^2}{\nu} ~\cite{bevington2003data}
+\end{equation}
+\textit{Nota: Como están presentados los valores $x_*$ en el libro, es necesario compararlos con el $\chi_v^2$ definido en la ecuación 6, de lo contrario se estaría comentiendo un error ya que en el libro, se calculan los $x_*$ a partir de los $\chi_v^2$. Por ende, durante todo el artículo se comparó en el testeo de hipótesis $\chi_v^2$ con $x_*$ ~\cite{bevington2003data}.}
 \subsection{Método de Mínimos Cuadrados}
 
 El método de mínimos cuadrados es un procedimiento utilizado para ajustar una recta a 
-un conjunto de datos, de tal manera que la suma de los cuadrados de las desviaciones
+un conjunto de datos, de tal manera que la suma de los cuadrados de las desviaciones estándar
  entre los valores observados y los valores estimados sea mínima.
 
 Sea un conjunto de datos $(x_i, y_i)$ para \newline $i = 1,2,\dots,n$. 
@@ -84,7 +124,7 @@ donde:
 La recta obtenida se denomina recta de regresión de $Y$ sobre $X$. ~\cite{marques1991probabilidad}
 
 \subsection{Matriz de Covarianza}
-
+\label{covarianza}
 La covarianza es una medida que indica el grado en que dos 
 variables aleatorias varían conjuntamente.
 
@@ -96,7 +136,7 @@ Para dos variables aleatorias $X$ y $Y$, la covarianza se define como:
 
 donde $\mu_X$ y $\mu_Y$ son las medias de $X$ y $Y$, respectivamente.
 
-Para un conjunto de datos muestrales, la covarianza se estima mediante:
+Para un conjunto de datos muestrales, la covarianza se calcula mediante la siguiente expresión:
 
 \[
 \mathrm{Cov}(X,Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})
@@ -113,7 +153,7 @@ La matriz de covarianza para un vector aleatorio $\mathbf{X} = (X_1, X_2, \dots,
 \end{pmatrix}
 \]
 
-donde los elementos diagonales representan varianzas y los elementos fuera de la diagonal representan covarianzas.
+donde los elementos de la diagonal representan las varianzas y los elementos fuera de la diagonal representan las covarianzas.
 
 Esta matriz es simétrica y juega un papel fundamental en el análisis multivariado y en la teoría de regresión. ~\cite{marques1991probabilidad}
 \subsection{Diodos}
@@ -149,7 +189,7 @@ unión p-n.~\cite{rosadio}
 
 \item \textbf{Polarización directa}\newline
 Un diodo tiene polarización directa cuando se conecta un terminal positivo al material de 
-tipo p y un terminal negativo al material de tipo n tal como se muestra en la imagen \ref{directa}.
+tipo p y un terminal negativo al material de tipo n tal como se muestra en la figura \ref{directa}.
 
 \begin{figure}[ht]
     \centering
@@ -161,14 +201,14 @@ tipo p y un terminal negativo al material de tipo n tal como se muestra en la im
 
 En este caso de polarización directa, los electrones y huecos son empujados hacia la unión. Si la tensión entre las 
 terminales es menor que la barrera de potencial, los electrones libres de la zona n no tienen la suficiente energía 
-para atravesar la zona de deplexión. Cuando entran en esta zona, los iones se ven empujados de vuelta a la región n, 
+para atravesar la zona de deflexión. Cuando entran en esta zona, los iones se ven empujados de vuelta a la región n, 
 por lo que no circula corriente a través del diodo. Cuando la tensión entre las terminales es mayor que la barrera de 
 potencial, se empuja de nuevo a huecos y electrones libres hacia la unión. En este caso, existe un flujo de electrones 
 de la parte de material n a la parte de material p.~\cite{rosadio}
 
 \item \textbf{Polarización inversa}\newline
 Un diodo tiene polarización inversa si se le conecta una terminal negativa a la parte del material tipo n y el terminal 
-positivo a la parte tipo p (imagen \ref{inversa}).
+positivo a la parte tipo p (figura \ref{inversa}).
 
 \begin{figure}[ht]
     \centering
@@ -191,16 +231,17 @@ cambia significativamente con los cambios de potencial proporcionados al circuit
 corriente en función del voltaje una vez se supera la barrera de  potencial se puede modelar por ~\cite{leon2014}:
 
 \begin{equation}
-I = I_s \left( e^{\frac{qV}{\eta k_B T}} - 1 \right)
+I = I_s \left( e^{\frac{qV}{\eta k_b T}} - 1 \right)
+\label{corriente}
 \end{equation}
 
 donde:
 \begin{itemize}
     \item $I_s$ es la corriente de saturación,
     \item $q$ es la carga del electrón,
-    \item $V$ es el voltaje aplicado,
+    \item $V$ es el voltaje aplicado al diodo,
     \item $\eta$ es el coeficiente de idealidad,
-    \item $k_B$ es la constante de Boltzmann,
+    \item $k_b$ es la constante de Boltzmann,
     \item $T$ es la temperatura absoluta.
 \end{itemize}
 
@@ -231,23 +272,56 @@ por procesos térmicos. Específicamente:
 
 \section{Metodología}
 
-\subsection{Procedimiento}
-\begin{enumerate}
-    \item Se montó el circuito montado en el procedimiento. 
-        Se conectó a una fuente que permitia cambiar el voltaje pro
-        porcionado al circuito con buena presición. Y dos multimetros, uno en serie
-        con el diodo para medir la corriente del circuito y uno en paralelo con las 
-        dos terminales del diodo para medir la variación de voltaje en el diodo.
-    \item Se incio con un voltaje de 0.3 V, y para el primer muestreo
-          se fue cambiando ese voltaje en intervalos de 0.01 V. Se reguistraron
-          los datos de corriente y voltaje para aproximadamente 100 medidas.
-    \item Para los siguientes muestreos se aumentó la corriente en intervalos de 
-    0.05 v y se registraron los datos de voltaje y corriente proporcionados por los 
-    multimetros, hasta que la medida de voltaje del diodo fuese igual o superior a 0.7 V.
+\subsection{Montaje}
+    Se tiene el circuito que se muestra a continuación:
+    \begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.7\linewidth]{circuito.png}
+    \vspace{0.5cm} % Esto empuja el texto hacia abajo para que se vea
+    \caption{Foto del circuito a montar.}
+    \label{fig:sistema}
+\end{figure}
+
+Inicialmente, se armó el circuito de la figura 3. Posteriomente, se colocó una fuente que permitiera aumentar el voltaje en pequeños pasos con una buena precisión. Así, se presenta el montaje en la siguiente figura:
+
+%colocar figuras del montaje y la fuente
+Se puede observar a la izquierda de la figura 4 la fuente empleada durante el experimento, en el medio, se observa el circuito de la figura 3 y a la derecha los dos multímetros utilizados, uno para el voltaje y otro para la corriente.
+\subsection{Metodología}
+
+Se comenzó con un voltaje inicial de 0.3 V para el primer muestreo, luego se fue aumentando el voltaje en intervalos de 0.01 V. Posteriormente, se registraron los datos de corriente y voltaje para aproximadamente 100 medidas.
+
+Para los siguientes muestreos se inició en 0.3 V y se aumentó el voltaje en intervalos de 0.05 V, además se registraron los datos de voltaje y corriente proporcionados por los 
+    multímetros, hasta que la medida de voltaje del diodo fuese cercana a 0.7 V.
     Este procedimiento se repitió 3 veces.
 
-    \item Se analizaron los datos de 
-\end{enumerate}
+   \item  En el análisis de los datos. Para los datos obtenidos con pasos de a 0.01 v se realizó un ajuste exponencial de la forma.
+    \begin{equation}
+        I(V) = a \\ e ^{bV}
+        \label{exponencial}
+    \end{equation}
+
+    En donde $b = \frac{qV}{\eta k_b T} $ de la ecuación \ref{corriente}. A partir de este valor se puede encontrar la constante $K_b$, conociendo $T $ del ambiente y $\eta$ del diodo.
+
+    Después de ejecutado el ajuste, se aplicó el test de $\chi - 2$ para verificar la bondad del ajuste.
+
+    Para el valor de $K_b$ se calculó la incertidumbre. Sabiendo que la incertidumbre estándar de $b$ es uno de los elementos de la diagonal de la matriz de covarianza.
+
+     Para los datos tomados de pasos de  0.05 V, se realizo una linealización aplicando $\ln$ a ambos lados de la igualdad de la ecuación \ref{exponencial}:
+    \[\ln(I) = \ln(a \\ e ^{bV})\]
+    
+    se obtiene:
+    \begin{equation}
+         \ln(I) = \ln(a)+bV
+         \label{lin}
+    \end{equation}
+
+     Aquí se hereda el mismo $b $ para encontrar la constante de Boltzman. Y así para calcular $K_b$ se emplea el mismo procedimiento.
+     
+ 
+    
+
+    
+    
 
 \section{Resultados}
 
@@ -261,28 +335,28 @@ El ajuste obtenido para las medidas tomadas por intervalos de 0.01 V se muestra 
     \caption{Imagen correspondiente al ajuste exponencial para los datos tomados por intervalos de 0.01 V}
     \label{0.01}
 \end{figure}
-
-Usando el test de Chi cuadrado para comprobar la bondad del ajuste, se llegó a que el ajuste es bueno ya 
-que se pudo refutar la hipótesis nula.
-
-De la gráfica se puede deducir que para el ajuste exponencial de ecuación \ref{exponencial}:
-
-\begin{equation}
-f(x) = a e^{bx}
-\label{exponencial}
-\end{equation}
-
-Los valores de los parámetros ajustados con sus correspondientes errores estándares son los siguientes:
+\[
+\begin{pmatrix}
+4.3\times10^{-14} & -3.1\times10^{-8} \\
+-3.1\times10^{-8} & 2.3\times10^{-2}
+\end{pmatrix}
+\label{cov01}
+\]
+La matriz \ref{cov01} muestra la matriz de covarianza para el ajuste, el segundo elemento de diagonal corresponde a la varianza del parámetro $b$. Así, los valores de los parámetros con sus respectivas invertidumbres son:
 
 \[
 a = (2.0 \pm 0.2)\times 10^{-6}, \quad b = (22.2 \pm 0.2)
 \]
 
+Usando el test de Chi cuadrado para comprobar la bondad del ajuste, para una significancia del $5\% $, se obtuvo un valor critico de $5$, que comparado con el
+valor de $\chi-2 =0.28$. Es posible refutar la hipótesis nula.
+
 Usando el valor de $b$ para calcular la constante de Boltzmann $K_b$, el valor obtenido es:
 
 \[
-K_b = 1.27 \times 10^{-23}
+K_b = 1.2 \times 10^{-23}
 \]
+La incertidumbre obtenida fue muy pequeña por lo que fue ignorada.
 
 \subsection{Medidas por intervalos de 0.05 V}
 
@@ -298,7 +372,7 @@ físico y luego se verificó la bondad del ajuste usando $R^2$ de la teoría de 
 
 Los valores obtenidos de $R^2$ para los ajustes son $0.96, 0.99, 0.99$ respectivamente.
 
-Por otro lado, los valores obtenidos de $K_b$ de los parámetros de los ajustes son:
+Por otro lado, los valores obtenidos de $K_b$ a partir del parámetro de $b$ de \ref{lin} son los siguientes:
 
 \[
 1.2 \times 10^{-23}, \quad 1.2 \times 10^{-23}, \quad 1.2 \times 10^{-23}
