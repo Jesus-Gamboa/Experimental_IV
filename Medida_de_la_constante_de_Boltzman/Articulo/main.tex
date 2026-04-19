@@ -5,7 +5,7 @@
 \graphicspath{{Imagenes/}} %graficos
 
 \usepackage[spanish]{babel} %idioma
-
+\setlength{\parskip}{1em} 
 
 \begin{document}
 
@@ -67,12 +67,14 @@ $x_*$: Valor crítico.
 
 $f(x;\theta)$: Función densidad de probabilidad del estadístico de prueba bajo la hipótesis nula que es caracterizada por el parámetro $\theta$.
 $\alpha$: Nivel de significancia.
+\newline
 
 Adicionalmente también puede definirse al chi-cuadrado normalizado como:
 \begin{equation}
  \chi_v^2=\frac{\chi^2}{\nu} ~\cite{bevington2003data}
 \end{equation}
 \textit{Nota: Como están presentados los valores $x_*$ en el libro, es necesario compararlos con el $\chi_v^2$ definido en la ecuación 6, de lo contrario se estaría comentiendo un error ya que en el libro, se calculan los $x_*$ a partir de los $\chi_v^2$. Por ende, durante todo el artículo se comparó en el testeo de hipótesis $\chi_v^2$ con $x_*$ ~\cite{bevington2003data}.}
+
 \subsection{Método de Mínimos Cuadrados}
 
 El método de mínimos cuadrados es un procedimiento utilizado para ajustar una recta a 
@@ -294,7 +296,7 @@ Para los siguientes muestreos se inició en 0.3 V y se aumentó el voltaje en in
     multímetros, hasta que la medida de voltaje del diodo fuese cercana a 0.7 V.
     Este procedimiento se repitió 3 veces.
 
-   \item  En el análisis de los datos. Para los datos obtenidos con pasos de a 0.01 v se realizó un ajuste exponencial de la forma.
+    En el análisis de los datos. Para los datos obtenidos con pasos de a 0.01 v se realizó un ajuste exponencial de la forma.
     \begin{equation}
         I(V) = a \\ e ^{bV}
         \label{exponencial}
@@ -384,7 +386,44 @@ Por otro lado, los valores obtenidos de $K_b$ a partir del parámetro de $b$ de 
 \item
 \end{enumerate}
 
-\bibliographystyle{apsrev4-2}
-\bibliography{mainNotes}
+\begin{thebibliography}{99}
+
+\bibitem{rosadio}
+G. Rosadio Vega,
+\textit{Circuitos básicos con diodos},
+Universidad Nacional de Ingeniería, Departamento de Ingeniería Física, Facultad de Ciencias,
+Lima, Perú, 2000.
+
+\bibitem{leon2014}
+J. A. León Gil,
+\textit{Desarrollo de diodos túnel},
+Centro de Investigación en Materiales Avanzados, S.C.,
+Apodaca, Nuevo León, México, 2014.
+
+\bibitem{marques1991probabilidad}
+María José Marques de Cantú,
+\textit{Probabilidad y Estadística para Ciencias Químico-Biológicas},
+McGraw-Hill Interamericana de México,
+México, 1991.
+
+\bibitem{spiegel2009estadistica}
+Murray R. Spiegel y Larry J. Stephens,
+\textit{Estadística}, 4ta ed.,
+McGraw-Hill/Interamericana Editores,
+México, D.F., 2009.
+
+\bibitem{sirca2016probability}
+Simon {\v{S}}irca,
+\textit{Probability for Physicists}, 1ra ed.,
+Springer International Publishing,
+Suiza, 2016.
+
+\bibitem{bevington2003data}
+Philip R. Bevington y D. Keith Robinson,
+\textit{Data Reduction and Error Analysis for the Physical Sciences}, 3ra ed.,
+McGraw-Hill,
+Nueva York, NY, EE. UU., 2003.
+
+\end{thebibliography}
 
 \end{document}
