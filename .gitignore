@@ -1,5 +1,6 @@
-# Python
-.venv/
+
+/.venv
+/.vscode
 __pycache__/
 *.pyc
 
@@ -11,6 +12,3 @@ __pycache__/
 *.fls
 *.fdb_latexmk
 *.synctex.gz
-
-# VS Code (opcional)
-.vscode/
