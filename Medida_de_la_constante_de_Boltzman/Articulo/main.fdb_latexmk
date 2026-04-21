@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1776560505.52285 "main.aux" "main.bbl" "main" 1776560508.20988 0
-  "./mainNotes.bib" 1776560507 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
+["bibtex main"] 1776790641.96923 "main.aux" "main.bbl" "main" 1776790850.37706 0
+  "./mainNotes.bib" 1776790848 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/bibtex/bst/revtex/apsrev4-2.bst" 1685674058 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
-  "main.aux" 1776560507 4277 a1a894f47cbb572ac6f16eb8e9a18f94 "pdflatex"
+  "main.aux" 1776790848 4277 d84841e4300b612ecff111b03446f06f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1776560506.14773 "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Articulo/main.tex" "main.pdf" "main" 1776560508.21187 0
+["pdflatex"] 1776790847.46897 "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Articulo/main.tex" "main.pdf" "main" 1776790850.37981 0
   "C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776488985 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/USUARIO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1776473910 13334455 2b43a58afe52fa3f86253687c3c566a6 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -74,15 +74,15 @@
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revtex4-2.cls" 1685674058 202907 3900a45169782ac9ef2ca218441e0d14 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty" 1740138976 3164 6b6fe33a41126007f2392b3b931bd33f ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Imagenes/circuito.png" 1776558034 14449 a5d278604a0c4455bb9e57b920b6d442 ""
-  "Imagenes/datos_0.01.jpg" 1776468882 48001 0811f3d88854f18f72901fbba51c3533 ""
-  "Imagenes/datos_0.05.jpg" 1776468882 78931 eed2b5a5d8e6c6a0e41c43a512d71797 ""
-  "Imagenes/diodo con polarizacion directa.png" 1776475323 34900 0fc7e6b8c6f7c9ad599b12aeb9d91aa8 ""
-  "Imagenes/diodo con polarizacion inversa.png" 1776475329 42809 a7ca7f2db5fd0c33e146828cef05942a ""
-  "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Articulo/main.tex" 1776560502 18257 8172b7b16071684ffb98ce4192f9353b ""
-  "main.aux" 1776560507 4277 a1a894f47cbb572ac6f16eb8e9a18f94 "pdflatex"
-  "main.bbl" 1776560506 2035 35453d3875d823f0ec9445e740a573d9 "bibtex main"
-  "main.tex" 1776560502 18257 8172b7b16071684ffb98ce4192f9353b ""
+  "Imagenes/circuito.png" 1776742108 14449 a5d278604a0c4455bb9e57b920b6d442 ""
+  "Imagenes/datos_0.01.jpg" 1776789892 47075 e08da30e525a6769e257ca0a8ece3db5 ""
+  "Imagenes/datos_0.05.jpg" 1776789893 87517 8ff044f442b1783fff57aac45873029b ""
+  "Imagenes/diodo con polarizacion directa.png" 1776742108 34900 0fc7e6b8c6f7c9ad599b12aeb9d91aa8 ""
+  "Imagenes/diodo con polarizacion inversa.png" 1776742108 42809 a7ca7f2db5fd0c33e146828cef05942a ""
+  "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Articulo/main.tex" 1776790846 18985 56f580aeed07cdd230357d3e5d2e3a97 ""
+  "main.aux" 1776790848 4277 d84841e4300b612ecff111b03446f06f "pdflatex"
+  "main.bbl" 1776790642 2035 35453d3875d823f0ec9445e740a573d9 "bibtex main"
+  "main.tex" 1776790846 18985 56f580aeed07cdd230357d3e5d2e3a97 ""
   (generated)
   "main.aux"
   "main.log"

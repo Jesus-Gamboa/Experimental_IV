@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  18 APR 2026 20:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  21 APR 2026 12:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -214,30 +214,30 @@ Package babel Info: Making > an active character on input line 722.
 ))
 LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 8.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 8.
-Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 10.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 10.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 10.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 10.
+Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 12.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 12.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 12.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 12.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count306
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
@@ -281,22 +281,22 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 10.
+(babel)             Reported on input line 12.
 \openout3 = `mainNotes.bib'.
 
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 33.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 35.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 72--73
+Underfull \hbox (badness 5091) in paragraph at lines 74--75
 []\OT1/cmr/m/n/10 Adicionalmente tam-bi^^Sen pue-de de-fi-nir-se al chi-
  []
 
@@ -304,31 +304,40 @@ Underfull \hbox (badness 5091) in paragraph at lines 72--73
 <Imagenes/diodo con polarizacion directa.png, id=23, 248.42813pt x 178.41656pt>
 File: Imagenes/diodo con polarizacion directa.png Graphic file (type png)
 <use Imagenes/diodo con polarizacion directa.png>
-Package pdftex.def Info: Imagenes/diodo con polarizacion directa.png  used on input line 198.
+Package pdftex.def Info: Imagenes/diodo con polarizacion directa.png  used on input line 200.
 (pdftex.def)             Requested size: 246.0pt x 176.67648pt.
 <Imagenes/diodo con polarizacion inversa.png, id=25, 254.45062pt x 179.16937pt>
 File: Imagenes/diodo con polarizacion inversa.png Graphic file (type png)
 <use Imagenes/diodo con polarizacion inversa.png>
-Package pdftex.def Info: Imagenes/diodo con polarizacion inversa.png  used on input line 217.
+Package pdftex.def Info: Imagenes/diodo con polarizacion inversa.png  used on input line 219.
 (pdftex.def)             Requested size: 246.0pt x 173.22542pt.
  [3 <./Imagenes/diodo con polarizacion directa.png> <./Imagenes/diodo con polarizacion inversa.png>]
 <Imagenes/circuito.png, id=31, 239.39438pt x 110.66344pt>
 File: Imagenes/circuito.png Graphic file (type png)
 <use Imagenes/circuito.png>
-Package pdftex.def Info: Imagenes/circuito.png  used on input line 281.
+Package pdftex.def Info: Imagenes/circuito.png  used on input line 283.
 (pdftex.def)             Requested size: 172.19925pt x 79.60161pt.
  [4 <./Imagenes/circuito.png>]
 <Imagenes/datos_0.01.jpg, id=37, 722.7pt x 433.62pt>
 File: Imagenes/datos_0.01.jpg Graphic file (type jpg)
 <use Imagenes/datos_0.01.jpg>
-Package pdftex.def Info: Imagenes/datos_0.01.jpg  used on input line 336.
+Package pdftex.def Info: Imagenes/datos_0.01.jpg  used on input line 338.
 (pdftex.def)             Requested size: 246.0pt x 147.60088pt.
-<Imagenes/datos_0.05.jpg, id=38, 1011.78pt x 433.62pt>
+<Imagenes/datos_0.05.jpg, id=38, 433.62pt x 1011.78pt>
 File: Imagenes/datos_0.05.jpg Graphic file (type jpg)
 <use Imagenes/datos_0.05.jpg>
-Package pdftex.def Info: Imagenes/datos_0.05.jpg  used on input line 370.
-(pdftex.def)             Requested size: 246.0pt x 105.4273pt.
- [5 <./Imagenes/datos_0.01.jpg> <./Imagenes/datos_0.05.jpg>] (main.bbl) [6] (main.aux)
+Package pdftex.def Info: Imagenes/datos_0.05.jpg  used on input line 373.
+(pdftex.def)             Requested size: 246.0pt x 574.00342pt.
+
+Overfull \hbox (33.72298pt too wide) detected at line 385
+\OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 12 \OMS/cmsy/m/n/10 ^^F \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 05) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 20 \OMS/cmsy/m/n/10 ^^F \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 02) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 20 \OMS/cmsy/m/n/10 ^^F \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 02) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]
+ []
+
+[5 <./Imagenes/datos_0.01.jpg>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 391.
+
+(main.bbl) [6] [7 <./Imagenes/datos_0.05.jpg>] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -343,9 +352,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  59i,9n,67p,1344b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
-Output written on main.pdf (6 pages, 435463 bytes).
+Output written on main.pdf (7 pages, 443569 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 115 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

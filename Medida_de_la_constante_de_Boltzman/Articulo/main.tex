@@ -5,6 +5,8 @@
 \graphicspath{{Imagenes/}} %graficos
 
 \usepackage[spanish]{babel} %idioma
+
+\spanishdecimal{.}
 \setlength{\parskip}{1em} 
 
 \begin{document}
@@ -344,10 +346,11 @@ El ajuste obtenido para las medidas tomadas por intervalos de 0.01 V se muestra 
 \end{pmatrix}
 \label{cov01}
 \]
-La matriz \ref{cov01} muestra la matriz de covarianza para el ajuste, el segundo elemento de diagonal corresponde a la varianza del parámetro $b$. Así, los valores de los parámetros con sus respectivas invertidumbres son:
+La matriz \ref{cov01} muestra la matriz de covarianza para el ajuste, el segundo elemento de diagonal corresponde a la varianza del parámetro $b$. 
+Así, el valor de este párametro con su respectiva incertidumbre es:
 
 \[
-a = (2.0 \pm 0.2)\times 10^{-6}, \quad b = (22.2 \pm 0.2)
+ b = (22.23 \pm 0.02)
 \]
 
 Usando el test de Chi cuadrado para comprobar la bondad del ajuste, para una significancia del $5\% $, se obtuvo un valor critico de $5$, que comparado con el
@@ -356,9 +359,9 @@ valor de $\chi-2 =0.28$. Es posible refutar la hipótesis nula.
 Usando el valor de $b$ para calcular la constante de Boltzmann $K_b$, el valor obtenido es:
 
 \[
-K_b = 1.2 \times 10^{-23}
+K_b = (1.27 \pm 0.01) \times 10^{-23}
 \]
-La incertidumbre obtenida fue muy pequeña por lo que fue ignorada.
+La incertidumbre obtenida corresponde a la incertidumbre por incertidumbres pequeñas.
 
 \subsection{Medidas por intervalos de 0.05 V}
 
@@ -374,16 +377,23 @@ físico y luego se verificó la bondad del ajuste usando $R^2$ de la teoría de 
 
 Los valores obtenidos de $R^2$ para los ajustes son $0.96, 0.99, 0.99$ respectivamente.
 
-Por otro lado, los valores obtenidos de $K_b$ a partir del parámetro de $b$ de \ref{lin} son los siguientes:
+Por otro lado, los valores obtenidos de $K_b$ con sus respectivas incertidumbres a partir del parámetro de $b$ del ajuste lineal,
+de la ecuación (\ref{lin}), para cada muestra son respectivamente:
 
 \[
-1.2 \times 10^{-23}, \quad 1.2 \times 10^{-23}, \quad 1.2 \times 10^{-23}
+(1.12\pm 0.05) \times 10^{-23}, \quad (1.20 \pm 0.02) \times 10^{-23}, \quad (1.20\pm 0.02) \times 10^{-23}
+\]
+
+Al promediar los datos de las medidas de $K_b$ y reportar la medida con incertidumbre efectiva, se obtiene:
+
+\[
+K_b = (1.17 \pm 0.03) \times 10^{-23}
 \]
 
 \section{Conclusiones}
 
 \begin{enumerate}
-\item
+    \item
 \end{enumerate}
 
 \begin{thebibliography}{99}
