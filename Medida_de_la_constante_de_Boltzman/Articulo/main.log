@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  21 APR 2026 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  22 APR 2026 08:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -176,9 +176,16 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count303
+\float@exts=\toks25
+\float@box=\box70
+\@float@everytoks=\toks26
+\@floatcapt=\box71
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
-\babel@savecnt=\count303
+\babel@savecnt=\count304
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
@@ -190,7 +197,7 @@ LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) o
 \l@unhyphenated=\language79
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count304
+\bbl@dirlevel=\count305
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
 (babel)             Reported on input line 4196.
@@ -205,8 +212,8 @@ Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 4320.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks25
-\es@quotdepth=\count305
+\es@quottoks=\toks27
+\es@quotdepth=\count306
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -215,12 +222,16 @@ Package babel Info: Making > an active character on input line 722.
 LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 8.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 8.
 Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 12.
+
+
+Class revtex4-2 Warning: Repair the float package.
+
 Class revtex4-2 Info: cite was not loaded (OK!) on input line 12.
 Class revtex4-2 Info: mcite was not loaded (OK!) on input line 12.
 Class revtex4-2 Info: multicol was not loaded (OK!) on input line 12.
- (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count306
+\l__color_backend_stack_int=\count307
 ) (main.aux)
 \openout1 = `main.aux'.
 
@@ -240,17 +251,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
+\scratchcounter=\count308
 \scratchdimen=\dimen160
-\scratchbox=\box70
-\nofMPsegments=\count308
-\nofMParguments=\count309
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count310
+\scratchbox=\box72
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count311
 \MPscratchDim=\dimen161
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
@@ -323,38 +334,33 @@ File: Imagenes/datos_0.01.jpg Graphic file (type jpg)
 <use Imagenes/datos_0.01.jpg>
 Package pdftex.def Info: Imagenes/datos_0.01.jpg  used on input line 338.
 (pdftex.def)             Requested size: 246.0pt x 147.60088pt.
-<Imagenes/datos_0.05.jpg, id=38, 433.62pt x 1011.78pt>
+<Imagenes/datos_0.05.jpg, id=38, 433.62pt x 578.16pt>
 File: Imagenes/datos_0.05.jpg Graphic file (type jpg)
 <use Imagenes/datos_0.05.jpg>
-Package pdftex.def Info: Imagenes/datos_0.05.jpg  used on input line 373.
-(pdftex.def)             Requested size: 246.0pt x 574.00342pt.
+Package pdftex.def Info: Imagenes/datos_0.05.jpg  used on input line 380.
+(pdftex.def)             Requested size: 246.0pt x 328.00195pt.
+ [5 <./Imagenes/datos_0.01.jpg>]
 
-Overfull \hbox (33.72298pt too wide) detected at line 385
-\OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 12 \OMS/cmsy/m/n/10 ^^F \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 05) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 20 \OMS/cmsy/m/n/10 ^^F \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 02) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 20 \OMS/cmsy/m/n/10 ^^F \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 02) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]
- []
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 392.
 
-[5 <./Imagenes/datos_0.01.jpg>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 391.
-
-(main.bbl) [6] [7 <./Imagenes/datos_0.05.jpg>] (main.aux)
+(main.bbl) [6 <./Imagenes/datos_0.05.jpg>] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6260 strings out of 467871
- 99064 string characters out of 5417408
- 540422 words of memory out of 5000000
- 35080 multiletter control sequences out of 15000+600000
+ 6321 strings out of 467871
+ 100094 string characters out of 5417408
+ 540654 words of memory out of 5000000
+ 35137 multiletter control sequences out of 15000+600000
  631111 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,9n,67p,1344b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,9n,67p,1344b,396s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
-Output written on main.pdf (7 pages, 443569 bytes).
+Output written on main.pdf (6 pages, 420739 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

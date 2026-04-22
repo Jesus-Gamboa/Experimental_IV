@@ -1,7 +1,7 @@
 \documentclass[reprint, twocolumn]{revtex4-2} %formato
 \usepackage{graphicx} % graficos
 \usepackage{amsmath} %matrices
-
+\usepackage{float}    
 \graphicspath{{Imagenes/}} %graficos
 
 \usepackage[spanish]{babel} %idioma
@@ -37,7 +37,7 @@ Inicialmente definamos a una hipótesis como aquella suposición que se plantea 
 
 Si se considera que ciertos datos siguen una distribucción o expresión matemática determinada, se puede calcular a Chi cuadrado como~\cite{spiegel2009estadistica}:
 \begin{equation}
-    \chi^2=\sum_{j=1}^n \frac{(h(x_k)- NP(x_j)^2}{\sigma_j^2}~\cite{bevington2003data}
+    \chi^2=\sum_{j=1}^n \frac{h(x_k)- NP(x_j)^2}{\sigma_j^2}~\cite{bevington2003data}
 \end{equation}
 Donde:
 
@@ -339,6 +339,7 @@ El ajuste obtenido para las medidas tomadas por intervalos de 0.01 V se muestra 
     \caption{Imagen correspondiente al ajuste exponencial para los datos tomados por intervalos de 0.01 V}
     \label{0.01}
 \end{figure}
+
 \[
 \begin{pmatrix}
 4.3\times10^{-14} & -3.1\times10^{-8} \\
@@ -353,8 +354,8 @@ Así, el valor de este párametro con su respectiva incertidumbre es:
  b = (22.23 \pm 0.02)
 \]
 
-Usando el test de Chi cuadrado para comprobar la bondad del ajuste, para una significancia del $5\% $, se obtuvo un valor critico de $5$, que comparado con el
-valor de $\chi-2 =0.28$. Es posible refutar la hipótesis nula.
+Usando el test de Chi cuadrado para comprobar la bondad del ajuste, para una significancia del $5\% $, para $\eta = 2$ (grados de libertad) se obtuvo un valor critico de $5$, que comparado con el
+valor de $\chi-2 =0.28$ obtenido en el ajuste. Es posible refutar la hipótesis nula.
 
 Usando el valor de $b$ para calcular la constante de Boltzmann $K_b$, el valor obtenido es:
 
@@ -365,36 +366,48 @@ La incertidumbre obtenida corresponde a la incertidumbre por incertidumbres pequ
 
 \subsection{Medidas por intervalos de 0.05 V}
 
-En este caso, como fue indicado en la metodología, se linealizó la función exponencial modelo del sistema 
+En este caso, como fue indicado en la metodología, se linealizó la función exponencial ver Figura \ref{imagen0.05} modelo del sistema 
 físico y luego se verificó la bondad del ajuste usando $R^2$ de la teoría de mínimos cuadrados.
+
+
+Los valores obtenidos de $R^2$ para los ajustes Figura \ref{imagen0.05} son $0.96, 0.99, 0.99$ respectivamente.
+
+Por otro lado, los valores obtenidos de $K_b$ con sus respectivas incertidumbres a partir del parámetro de $b$ del ajuste lineal,
+de la ecuación (\ref{lin}), para cada muestra son:
 
 \begin{figure}[ht]
     \centering
     \includegraphics[width=1\linewidth]{Imagenes/datos_0.05.jpg}
     \caption{Gráficos obtenidos para la linealización de las medidas}
-    \label{0.05}
+    \label{imagen0.05}
 \end{figure}
-
-Los valores obtenidos de $R^2$ para los ajustes son $0.96, 0.99, 0.99$ respectivamente.
-
-Por otro lado, los valores obtenidos de $K_b$ con sus respectivas incertidumbres a partir del parámetro de $b$ del ajuste lineal,
-de la ecuación (\ref{lin}), para cada muestra son respectivamente:
-
 \[
-(1.12\pm 0.05) \times 10^{-23}, \quad (1.20 \pm 0.02) \times 10^{-23}, \quad (1.20\pm 0.02) \times 10^{-23}
+Muestra \quad 1: (1.12\pm 0.05) \times 10^{-23}
 \]
 
+\[Muestra \quad 2:(1.20 \pm 0.02) \times 10^{-23}
+\]
+
+\[Muestra \quad 3:(1.20 \pm 0.02) \times 10^{-23}
+\]
 Al promediar los datos de las medidas de $K_b$ y reportar la medida con incertidumbre efectiva, se obtiene:
 
 \[
 K_b = (1.17 \pm 0.03) \times 10^{-23}
 \]
+En el apendice puede encontrar el notebook en el que se trabajo para obtener los 
+resultados expuestos.
+
+
 
 \section{Conclusiones}
 
 \begin{enumerate}
     \item
 \end{enumerate}
+
+% \bibliographystyle{apsrev4-2}
+% \bibliography{mainNotes}
 
 \begin{thebibliography}{99}
 
