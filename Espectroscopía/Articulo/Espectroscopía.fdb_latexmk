@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Espectroscopía"] 1777659893.85946 "Espectroscopía.aux" "Espectroscopía.bbl" "Espectroscopía" 1777659896.89938 0
+["bibtex Espectroscopía"] 1777659893.85946 "Espectroscopía.aux" "Espectroscopía.bbl" "Espectroscopía" 1777680487.83869 0
   "./EspectroscopiaNotes.bib" 1777659678 1581 d7f4b399b1b97fcca9e06f034a1002ad ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Espectroscopía.aux" 1777659895 3293 0afd09f5e3bd8b2a04757ceabad88cdd "pdflatex"
+  "Espectroscopía.aux" 1777680486 3293 0afd09f5e3bd8b2a04757ceabad88cdd "pdflatex"
   (generated)
   "Espectroscopía.bbl"
   "Espectroscopía.blg"
   (rewritten before read)
-["pdflatex"] 1777659894.27898 "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopía.tex" "Espectroscopía.pdf" "Espectroscopía" 1777659896.90027 0
+["pdflatex"] 1777680484.27731 "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopía.tex" "Espectroscopía.pdf" "Espectroscopía" 1777680487.83984 0
   "C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776488985 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/USUARIO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1776473910 13334455 2b43a58afe52fa3f86253687c3c566a6 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -89,13 +89,13 @@
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Espectroscopía.aux" 1777659895 3293 0afd09f5e3bd8b2a04757ceabad88cdd "pdflatex"
+  "Espectroscopía.aux" 1777680486 3293 0afd09f5e3bd8b2a04757ceabad88cdd "pdflatex"
   "Espectroscopía.bbl" 1777659894 1024 cb85755e6a1c5ab534c00fb8f6de1324 "bibtex Espectroscopía"
-  "Espectroscopía.out" 1777659895 2204 34be69e2f20ee037508e8f44725901ec "pdflatex"
+  "Espectroscopía.out" 1777680486 2204 34be69e2f20ee037508e8f44725901ec "pdflatex"
   "Espectroscopía.tex" 1777659890 7597 7bbe402a90d84548c7ba039db1cac169 ""
-  "Imagenes/Comparación_con_barras.png" 1777334833 31932 cd9e1039932b51a578b8d05d31d754fb ""
-  "Imagenes/Comparación_con_el_ajuste.png" 1777334832 97483 6055a15d2b54eb61511ddf97be608e6f ""
-  "Imagenes/Espectro_de_irradiancia_de_la_lampara.png" 1777334831 26227 ed8271c477ae18f381131c76a10f6eea ""
+  "Imagenes/Comparación_con_barras.png" 1777680482 36795 f9da7bb901a8f2df726874959ddafb9e ""
+  "Imagenes/Comparación_con_el_ajuste.png" 1777680480 97483 6055a15d2b54eb61511ddf97be608e6f ""
+  "Imagenes/Espectro_de_irradiancia_de_la_lampara.png" 1777680479 26227 ed8271c477ae18f381131c76a10f6eea ""
   "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopía.tex" 1777659890 7597 7bbe402a90d84548c7ba039db1cac169 ""
   (generated)
   "Espectroscopía.aux"
