@@ -1,12 +1,14 @@
 PWD c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Articulo
 INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Articulo\Espectroscopía.tex
-OUTPUT Espectroscopía.log
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Articulo\Espectroscopia.tex
+OUTPUT Espectroscopia.log
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -97,30 +99,30 @@ INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\chngcntr\chngcntr.sty
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\chngcntr\chngcntr.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Espectroscopía.aux
-INPUT .\Espectroscopía.aux
-INPUT Espectroscopía.aux
-OUTPUT Espectroscopía.aux
+INPUT .\Espectroscopia.aux
+INPUT .\Espectroscopia.aux
+INPUT Espectroscopia.aux
+OUTPUT Espectroscopia.aux
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\Espectroscopía.out
-INPUT .\Espectroscopía.out
-INPUT Espectroscopía.out
-INPUT Espectroscopía.out
-OUTPUT Espectroscopía.pdf
-INPUT .\Espectroscopía.out
-INPUT .\Espectroscopía.out
-OUTPUT Espectroscopía.out
+INPUT .\Espectroscopia.out
+INPUT .\Espectroscopia.out
+INPUT Espectroscopia.out
+INPUT Espectroscopia.out
+OUTPUT Espectroscopia.pdf
+INPUT .\Espectroscopia.out
+INPUT .\Espectroscopia.out
+OUTPUT Espectroscopia.out
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -137,17 +139,29 @@ INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\c
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT .\Imagenes\Espectro_de_irradiancia_de_la_lampara.png
-INPUT .\Imagenes\Espectro_de_irradiancia_de_la_lampara.png
-INPUT .\Imagenes\Espectro_de_irradiancia_de_la_lampara.png
-INPUT .\Imagenes\Espectro_de_irradiancia_de_la_lampara.png
-INPUT .\Imagenes\Espectro_de_irradiancia_de_la_lampara.png
-INPUT .\Imagenes\Espectro_de_irradiancia_de_la_lampara.png
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT .\Imagenes\foto montaje actividad 4.jpg
+INPUT .\Imagenes\foto montaje actividad 4.jpg
+INPUT .\Imagenes\foto montaje actividad 4.jpg
+INPUT .\Imagenes\foto montaje actividad 4.jpg
+INPUT .\Imagenes\foto montaje actividad 4.jpg
+INPUT .\Imagenes\foto montaje actividad 4.jpg
+INPUT .\Imagenes\esfera integradora.jpg
+INPUT .\Imagenes\esfera integradora.jpg
+INPUT .\Imagenes\esfera integradora.jpg
+INPUT .\Imagenes\esfera integradora.jpg
+INPUT .\Imagenes\esfera integradora.jpg
+INPUT .\Imagenes\esfera integradora.jpg
+INPUT .\Imagenes\esfera integradora.jpg
 INPUT .\Imagenes\Comparación_con_el_ajuste.png
 INPUT .\Imagenes\Comparación_con_el_ajuste.png
 INPUT .\Imagenes\Comparación_con_el_ajuste.png
@@ -160,12 +174,39 @@ INPUT .\Imagenes\Comparación_con_barras.png
 INPUT .\Imagenes\Comparación_con_barras.png
 INPUT .\Imagenes\Comparación_con_barras.png
 INPUT .\Imagenes\Comparación_con_barras.png
-INPUT .\Espectroscopía.bbl
-INPUT .\Espectroscopía.bbl
-INPUT Espectroscopía.bbl
-INPUT Espectroscopía.aux
-INPUT .\Espectroscopía.out
-INPUT .\Espectroscopía.out
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\extrapolado.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Imagenes\espectros_de_otras_lámparas.png
+INPUT .\Espectroscopia.bbl
+INPUT .\Espectroscopia.bbl
+INPUT Espectroscopia.bbl
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT .\Imagenes\valores críticos de chi-cuadrado.png
+INPUT Espectroscopia.aux
+INPUT .\Espectroscopia.out
+INPUT .\Espectroscopia.out
+INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -192,5 +233,11 @@ INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

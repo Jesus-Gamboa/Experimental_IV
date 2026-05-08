@@ -1,0 +1,124 @@
+\begin{thebibliography}{10}
+
+\bibitem{Planck1901}
+Max Planck.
+\newblock Ueber das {G}esetz der {E}nergieverteilung im {N}ormalspectrum.
+\newblock {\em Annalen der Physik}, 309(3):553--563, 1901.
+\newblock \url{https://doi.org/10.1002/andp.19013090310}.
+
+\bibitem{Lamptech2011}
+James~R. Anderson.
+\newblock Fluorescent lamp phosphors, 2011.
+\newblock \url{https://www.lamptech.co.uk/Documents/FL%20Phosphors.htm}.
+
+\bibitem{moon1936scientific}
+Parry Moon.
+\newblock {\em The Scientific Basis of Illuminating Engineering}.
+\newblock Electrical Engineering Texts. McGraw-Hill Book Company, Inc., New
+  York and London, first edition, third impression edition, 1936.
+
+\bibitem{Hewitt2007Conceptual}
+Paul~G. Hewitt.
+\newblock {\em Física conceptual}.
+\newblock Pearson Educación, México, 10 edition, 2007.
+
+\bibitem{zemansky}
+Mark~W. Zemansky and Richard~H. Dittman.
+\newblock {\em Calor y Termodinámica}.
+\newblock McGraw-Hill, 6 edition, 1997.
+
+\bibitem{Acevedo2021}
+Ángel Acevedo~Sánchez.
+\newblock Análisis de cambios en cuerpos de agua mediante el tratamiento de
+  imágenes multiespectrales, July 2021.
+
+\bibitem{singh2013comparative}
+Lokendra~Pal Singh and Goldy Katal.
+\newblock A comparative study on design and operation of fluorescent lamps,
+  cfls and leds.
+\newblock {\em International Journal of Engineering Research and Application
+  (IJERA)}, 3(5):401--407, Sep-Oct 2013.
+\newblock \url{https://ijera.com/papers/Vol3_issue5/BS35401407.pdf}.
+
+\bibitem{gurski2005display}
+Jeremy Gurski and Lee~Ming Quach.
+\newblock Display technology overview.
+\newblock White paper, Lytica, Jul 2005.
+\newblock \url{https://poli.cs.vsb.cz/edu/apps/down/disp_overview.pdf}.
+
+\bibitem{Early1996Irradiance}
+Edward~A. Early and Ambler Thompson.
+\newblock Irradiance of horizontal quartz-halogen standard lamps.
+\newblock {\em Journal of Research of the National Institute of Standards and
+  Technology}, 101(2):141--153, 1996.
+
+\bibitem{Rammeloo2023Spectroradiometer}
+Clemens Rammeloo and Andreas Baumgartner.
+\newblock Spectroradiometer calibration for radiance transfer measurements.
+\newblock {\em Sensors}, 23(4):2339, 2023.
+\newblock \url{https://doi.org/10.3390/s23042339}.
+
+\bibitem{marques1991probabilidad}
+María José~Marques de~Cantú.
+\newblock {\em Probabilidad y Estadística para Ciencias Químico-Biológicas}.
+\newblock McGraw-Hill Interamericana de México, México, 1991.
+
+\bibitem{bevington2003data}
+Philip~R. Bevington and D.~Keith Robinson.
+\newblock {\em Data Reduction and Error Analysis for the Physical Sciences}.
+\newblock McGraw-Hill, Nueva York, NY, EE. UU., 3ra ed. edition, 2003.
+
+\bibitem{sirca2016probability}
+Simon {\v{S}}irca.
+\newblock {\em Probability for Physicists}.
+\newblock Springer International Publishing, Suiza, 1ra ed. edition, 2016.
+
+\bibitem{JCGM2008}
+{Joint Committee for Guides in Metrology}.
+\newblock {\em Evaluation of measurement data --- Guide to the expression of
+  uncertainty in measurement (JCGM 100:2008)}.
+\newblock BIPM, 1st edition, 2008.
+\newblock GUM 1995 con correcciones menores.
+
+\bibitem{HG}
+A.~Kramida, Yu. Ralchenko, J.~Reader, and {NIST ASD Team}.
+\newblock {NIST Atomic Spectra Database (version 5.11)}.
+\newblock
+  \url{https://physics.nist.gov/cgi-bin/ASD/lines1.pl?spectra=HG&output_type=0&low_w=&upp_w=&unit=1&submit=Retrieve+Data&de=0&plot_out=0&I_scale_type=1&format=0&line_out=3&en_unit=0&output=0&bibrefs=1&page_size=15&show_obs_wl=1&show_calc_wl=1&unc_out=1&order_out=0&max_low_enrg=&show_av=2&max_upp_enrg=&tsb_value=0&min_str=&A_out=0&intens_out=on&max_str=&allowed_out=1&forbid_out=1&min_accur=&min_intens=&conf_out=on&term_out=on&enrg_out=on&J_out=on},
+  2024.
+\newblock Accedido: 7 de mayo de 2026.
+
+\bibitem{Argon}
+A.~Kramida, Yu. Ralchenko, J.~Reader, and {NIST ASD Team}.
+\newblock {NIST Atomic Spectra Database (version 5.11): Argon Energy Levels and
+  Spectra}.
+\newblock
+  \url{https://physics.nist.gov/cgi-bin/ASD/lines1.pl?spectra=ar&output_type=0&low_w=&upp_w=&unit=1&submit=Retrieve+Data&de=0&plot_out=0&I_scale_type=1&format=0&line_out=3&en_unit=0&output=0&bibrefs=1&page_size=15&show_obs_wl=1&show_calc_wl=1&unc_out=1&order_out=0&max_low_enrg=&show_av=2&max_upp_enrg=&tsb_value=0&min_str=&A_out=0&intens_out=on&max_str=&allowed_out=1&forbid_out=1&min_accur=&min_intens=&conf_out=on&term_out=on&enrg_out=on&J_out=on},
+  2024.
+\newblock Accedido: 7 de mayo de 2026.
+
+\bibitem{Ohno2005}
+Yoshi Ohno.
+\newblock Spectral design considerations for white {LED} color rendering.
+\newblock {\em Optical Engineering}, 44(11):111302, nov 2005.
+\newblock \url{https://doi.org/10.1117/1.2130694}.
+
+\bibitem{Masaoka2014}
+Kenichiro Masaoka, Yukihiro Nishida, and Masayuki Sugawara.
+\newblock Designing display primaries with currently available light sources
+  for {UHDTV} wide-gamut system colorimetry.
+\newblock {\em Optics Express}, 22(16):19069--19077, 2014.
+\newblock \url{https://doi.org/10.1364/OE.22.019069}.
+
+\bibitem{CAMEOFluorescent}
+{Museum of Fine Arts Boston}.
+\newblock Fluorescent lamp, 2024.
+\newblock Consultado el 8 de mayo de 2026.
+
+\bibitem{devore2008}
+Jay~L. Devore.
+\newblock {\em Probabilidad y Estadística para Ingeniería y Ciencias}.
+\newblock Cengage Learning, México, D.F., séptima edition, 2008.
+\newblock Traducido de la séptima edición en inglés.
+
+\end{thebibliography}
