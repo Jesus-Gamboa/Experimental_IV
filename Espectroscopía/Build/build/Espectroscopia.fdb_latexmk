@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Espectroscopia"] 1778278516.29411 "Espectroscopia.aux" "Espectroscopia.bbl" "Espectroscopia" 1778278516.82077 0
+["bibtex build/Espectroscopia"] 1778280797.54507 "build/Espectroscopia.aux" "build/Espectroscopia.bbl" "build/Espectroscopia" 1778281037.99535 0
   "./EspectroscopiaNotes.bib" 1778278515 7491 605041fb0ff72f60c695bbac288f41e1 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/unsrt.bst" 1291864736 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "Espectroscopia.aux" 1778278310 9647 f4be4e2a3d9715578d5c6f8f19a024d6 "pdflatex"
+  "build/Espectroscopia.aux" 1778281036 9647 f4be4e2a3d9715578d5c6f8f19a024d6 "pdflatex"
   (generated)
-  "Espectroscopia.bbl"
-  "Espectroscopia.blg"
+  "build/Espectroscopia.bbl"
+  "build/Espectroscopia.blg"
   (rewritten before read)
-["pdflatex"] 1778278305.87619 "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopia.tex" "Espectroscopia.pdf" "Espectroscopia" 1778278516.82122 0
+["pdflatex"] 1778281031.91436 "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Build/Espectroscopia.tex" "build/Espectroscopia.pdf" "Espectroscopia" 1778281037.99655 0
   "C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778277756 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1776484143 11548 51f458fed9821688e800095b92916fbb ""
   "C:/Users/USUARIO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1776473910 13334455 2b43a58afe52fa3f86253687c3c566a6 ""
@@ -100,9 +100,6 @@
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Espectroscopia.aux" 1778278310 9647 f4be4e2a3d9715578d5c6f8f19a024d6 "pdflatex"
-  "Espectroscopia.bbl" 1778278516 5413 60d0ead577853e351501ba97db005891 "bibtex Espectroscopia"
-  "Espectroscopia.out" 1778278310 5896 0036ea354bb66d6cdc8f2fb68774e78d "pdflatex"
   "Espectroscopia.tex" 1778278142 34372 62d7b2efb0c0fe800c73c4488010600f ""
   "Imagenes/Comparación_con_barras.png" 1778277055 46811 e1ef42ab35def1141eb6ea55435c26fc ""
   "Imagenes/Comparación_con_el_ajuste.png" 1778277053 110625 dc7d0836b9261334736708c0753c0374 ""
@@ -111,10 +108,13 @@
   "Imagenes/extrapolado.png" 1778277054 52975 d38dfef320f0b1b5165264c95612c5df ""
   "Imagenes/foto montaje actividad 4.jpg" 1778277635 12729380 7f1f5657dea443fd6fdc27a03123897e ""
   "Imagenes/valores críticos de chi-cuadrado.png" 1778278001 234315 3fcb7f6482b17f10d8f5bd09e0ae0cb2 ""
-  "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopia.tex" 1778278142 34372 62d7b2efb0c0fe800c73c4488010600f ""
+  "build/Espectroscopia.aux" 1778281036 9647 f4be4e2a3d9715578d5c6f8f19a024d6 "pdflatex"
+  "build/Espectroscopia.bbl" 1778280797 5413 60d0ead577853e351501ba97db005891 "bibtex build/Espectroscopia"
+  "build/Espectroscopia.out" 1778281036 5896 0036ea354bb66d6cdc8f2fb68774e78d "pdflatex"
+  "c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Build/Espectroscopia.tex" 1778278142 34372 62d7b2efb0c0fe800c73c4488010600f ""
   (generated)
-  "Espectroscopia.aux"
-  "Espectroscopia.log"
-  "Espectroscopia.out"
-  "Espectroscopia.pdf"
+  "build/Espectroscopia.aux"
+  "build/Espectroscopia.log"
+  "build/Espectroscopia.out"
+  "build/Espectroscopia.pdf"
   (rewritten before read)

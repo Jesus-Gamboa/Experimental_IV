@@ -1,7 +1,7 @@
-PWD c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Articulo
+PWD c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build
 INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Articulo\Espectroscopia.tex
-OUTPUT Espectroscopia.log
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\Espectroscopia.tex
+OUTPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.log
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -103,10 +103,10 @@ INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\chngcntr\chngcntr
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\chngcntr\chngcntr.sty
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Espectroscopia.aux
-INPUT .\Espectroscopia.aux
-INPUT Espectroscopia.aux
-OUTPUT Espectroscopia.aux
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
+OUTPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -115,14 +115,14 @@ INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epst
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\Espectroscopia.out
-INPUT .\Espectroscopia.out
-INPUT Espectroscopia.out
-INPUT Espectroscopia.out
-OUTPUT Espectroscopia.pdf
-INPUT .\Espectroscopia.out
-INPUT .\Espectroscopia.out
-OUTPUT Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+OUTPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.pdf
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+OUTPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -188,9 +188,9 @@ INPUT .\Imagenes\espectros_de_otras_lámparas.png
 INPUT .\Imagenes\espectros_de_otras_lámparas.png
 INPUT .\Imagenes\espectros_de_otras_lámparas.png
 INPUT .\Imagenes\espectros_de_otras_lámparas.png
-INPUT .\Espectroscopia.bbl
-INPUT .\Espectroscopia.bbl
-INPUT Espectroscopia.bbl
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.bbl
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.bbl
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.bbl
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
@@ -202,9 +202,9 @@ INPUT .\Imagenes\valores críticos de chi-cuadrado.png
 INPUT .\Imagenes\valores críticos de chi-cuadrado.png
 INPUT .\Imagenes\valores críticos de chi-cuadrado.png
 INPUT .\Imagenes\valores críticos de chi-cuadrado.png
-INPUT Espectroscopia.aux
-INPUT .\Espectroscopia.out
-INPUT .\Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
+INPUT c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out
 INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\USUARIO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb

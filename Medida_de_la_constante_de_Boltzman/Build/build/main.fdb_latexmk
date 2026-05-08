@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1777219309.62264 "main.aux" "main.bbl" "main" 1777219401.6181 0
+["bibtex build/main"] 1778281060.8083 "build/main.aux" "build/main.bbl" "build/main" 1778281064.01503 0
   "./mainNotes.bib" 1777218390 3254 23e0c8e24e652c4bac7650ac25ec62fc ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1777219400 7427 d499c182fe895a452877c39c635162e1 "pdflatex"
+  "build/main.aux" 1778281062 7427 d499c182fe895a452877c39c635162e1 "pdflatex"
   (generated)
-  "main.bbl"
-  "main.blg"
+  "build/main.bbl"
+  "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1777219398.4306 "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Articulo/main.tex" "main.pdf" "main" 1777219401.61905 0
-  "C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776488985 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1778281061.22375 "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Build/main.tex" "build/main.pdf" "main" 1778281064.01595 0
+  "C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778277756 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/USUARIO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1776473910 13334455 2b43a58afe52fa3f86253687c3c566a6 ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -101,14 +101,14 @@
   "Imagenes/diodo con polarizacion inversa.png" 1776742108 42809 a7ca7f2db5fd0c33e146828cef05942a ""
   "Imagenes/image.png" 1777165391 234315 3fcb7f6482b17f10d8f5bd09e0ae0cb2 ""
   "Imagenes/termometro montaje 2.jpg" 1776742108 9691723 8b473ed90eef7eac48a94d25ab26d7f1 ""
-  "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Articulo/main.tex" 1777219397 32106 d970d8725661e6da006c3c7336d178d6 ""
-  "main.aux" 1777219400 7427 d499c182fe895a452877c39c635162e1 "pdflatex"
-  "main.bbl" 1777219309 1993 54d489af59af8ca2bfffa82a9c4f40ac "bibtex main"
-  "main.out" 1777219400 4717 3893eb4a0a113d7f537ba6d51697afe3 "pdflatex"
+  "build/main.aux" 1778281062 7427 d499c182fe895a452877c39c635162e1 "pdflatex"
+  "build/main.bbl" 1778281061 1993 54d489af59af8ca2bfffa82a9c4f40ac "bibtex build/main"
+  "build/main.out" 1778281062 4717 3893eb4a0a113d7f537ba6d51697afe3 "pdflatex"
+  "c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Build/main.tex" 1777219397 32106 d970d8725661e6da006c3c7336d178d6 ""
   "main.tex" 1777219397 32106 d970d8725661e6da006c3c7336d178d6 ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.out"
-  "main.pdf"
+  "build/main.aux"
+  "build/main.log"
+  "build/main.out"
+  "build/main.pdf"
   (rewritten before read)

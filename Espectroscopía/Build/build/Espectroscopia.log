@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  8 MAY 2026 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  8 MAY 2026 17:57
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopia.tex
-(c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Articulo/Espectroscopia.tex
+**c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Build/Espectroscopia.tex
+(c:/Users/USUARIO/Documents/Experimental_IV/Espectroscopía/Build/Espectroscopia.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -261,7 +260,7 @@ Package chngcntr Info: \counterwithout already defined.
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count311
-) (Espectroscopia.aux
+) (c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
@@ -307,7 +306,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 21.
- (Espectroscopia.out) (Espectroscopia.out)
+ (c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out) (c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.out)
 \@outlinefile=\write3
 \openout3 = `Espectroscopia.out'.
 
@@ -436,7 +435,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [9 <./Imagenes/espectros_de_otras_lámparas.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10] (Espectroscopia.bbl
+ [10] (c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.bbl
 Underfull \hbox (badness 7133) in paragraph at lines 10--13
 []\OT1/cmr/m/n/10 James R. An-der-son.  Fluo-res-cent lamp
  []
@@ -645,7 +644,7 @@ Underfull \hbox (badness 2205) in paragraph at lines 366--368
 
 [13
 
- <./Imagenes/valores críticos de chi-cuadrado.png>] (Espectroscopia.aux
+ <./Imagenes/valores críticos de chi-cuadrado.png>] (c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.aux
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 )
@@ -658,14 +657,14 @@ Package rerunfilecheck Info: File `Espectroscopia.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10950 strings out of 467871
- 174535 string characters out of 5417408
+ 175038 string characters out of 5417408
  611758 words of memory out of 5000000
  39615 multiletter control sequences out of 15000+600000
  636032 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,2338b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,2335b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\USUARIO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Espectroscopia.pdf (13 pages, 20727755 bytes).
+Output written on c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.pdf (13 pages, 20727755 bytes).
 PDF statistics:
  469 PDF objects out of 1000 (max. 8388607)
  92 named destinations out of 1000 (max. 500000)
