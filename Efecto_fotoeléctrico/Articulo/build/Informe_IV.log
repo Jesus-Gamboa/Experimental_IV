@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  9 MAY 2026 22:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  10 MAY 2026 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Build/main.tex
-(c:/Users/USUARIO/Documents/Experimental_IV/Medida_de_la_constante_de_Boltzman/Build/main.tex
+**c:/Users/USUARIO/Documents/Experimental_IV/Efecto_fotoeléctrico/Articulo/Informe_IV.tex
+(c:/Users/USUARIO/Documents/Experimental_IV/Efecto_fotoeléctrico/Articulo/Informe_IV.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -22,11 +22,15 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
+) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks19
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
@@ -49,7 +53,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2024/11/17 v2.01 AMS text
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks20
 \ex@=\dimen151
 )) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -87,29 +91,29 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \dotsspace@=\muskip17
 \c@parentequation=\count290
 \dspbrk@lvl=\count291
-\tag@help=\toks19
+\tag@help=\toks21
 \row@=\count292
 \column@=\count293
 \maxfields@=\count294
-\andhelp@=\toks20
+\andhelp@=\toks22
 \eqnshift@=\dimen154
 \alignsep@=\dimen155
 \tagshift@=\dimen156
 \tagwidth@=\dimen157
 \totwidth@=\dimen158
 \lineht@=\dimen159
-\@envbody=\toks21
+\@envbody=\toks23
 \multlinegap=\skip52
 \multlinetaggap=\skip53
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count295
-\float@exts=\toks23
+\float@exts=\toks25
 \float@box=\box55
-\@float@everytoks=\toks24
+\@float@everytoks=\toks26
 \@floatcapt=\box56
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
@@ -240,44 +244,48 @@ Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 4320.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks25
+\es@quottoks=\toks27
 \es@quotdepth=\count310
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 11.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 11.
- (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 14.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 14.
+ (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count311
-) (c:\Users\USUARIO\Documents\Experimental_IV\Medida_de_la_constante_de_Boltzman\Build\build\main.aux
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+) (c:\Users\USUARIO\Documents\Experimental_IV\Efecto_fotoeléctrico\Articulo\build\Informe_IV.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 15.
+(babel)             Reported on input line 11.
 )
-\openout1 = `main.aux'.
+\openout1 = `Informe_IV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count312
@@ -285,161 +293,52 @@ LaTeX Font Info:    ... okay on input line 16.
 \scratchbox=\box57
 \nofMPsegments=\count313
 \nofMParguments=\count314
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count315
 \MPscratchDim=\dimen166
 \MPnumerator=\count316
 \makeMPintoPDFobject=\count317
-\everyMPtoPDFconversion=\toks27
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 16.
- (c:\Users\USUARIO\Documents\Experimental_IV\Medida_de_la_constante_de_Boltzman\Build\build\main.out) (c:\Users\USUARIO\Documents\Experimental_IV\Medida_de_la_constante_de_Boltzman\Build\build\main.out)
+Package hyperref Info: Link coloring OFF on input line 20.
+ (c:\Users\USUARIO\Documents\Experimental_IV\Efecto_fotoeléctrico\Articulo\build\Informe_IV.out) (c:\Users\USUARIO\Documents\Experimental_IV\Efecto_fotoeléctrico\Articulo\build\Informe_IV.out)
 \@outlinefile=\write3
-\openout3 = `main.out'.
+\openout3 = `Informe_IV.out'.
 
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
-
-Underfull \hbox (badness 3000) in paragraph at lines 41--41
-[]\OT1/cmr/bx/n/12 Bondad de ajus-te y test de
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
  [1{C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
-]
-Underfull \hbox (badness 2343) in paragraph at lines 56--57
-[]\OT1/cmr/m/n/10 Sea $\OML/cmm/m/it/10 x$ \OT1/cmr/m/n/10 una va-ria-ble alea-to-ria, tal que $\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
- []
 
-
-Overfull \hbox (1.74261pt too wide) detected at line 60
-[][][]\OML/cmm/m/it/10 ^^[[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^[[] [][] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^[[] [][] \OT1/cmr/m/n/10 + [] + 2\OML/cmm/m/it/10 ^^[[] [] []
- []
-
-[2]
-Underfull \hbox (badness 1533) in paragraph at lines 120--121
-[]\OT1/cmr/m/n/10 Sea un con-jun-to de da-tos $(\OML/cmm/m/it/10 x[]; y[]\OT1/cmr/m/n/10 )$ pa-ra $\OML/cmm/m/it/10 i \OT1/cmr/m/n/10 =
- []
-
-[3]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 201.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 201.
-
-[4]
-<Imagenes/diodo con polarizacion directa.png, id=184, 248.42813pt x 178.41656pt>
-File: Imagenes/diodo con polarizacion directa.png Graphic file (type png)
-<use Imagenes/diodo con polarizacion directa.png>
-Package pdftex.def Info: Imagenes/diodo con polarizacion directa.png  used on input line 213.
-(pdftex.def)             Requested size: 229.5pt x 164.8258pt.
-<Imagenes/diodo con polarizacion inversa.png, id=188, 254.45062pt x 179.16937pt>
-File: Imagenes/diodo con polarizacion inversa.png Graphic file (type png)
-<use Imagenes/diodo con polarizacion inversa.png>
-Package pdftex.def Info: Imagenes/diodo con polarizacion inversa.png  used on input line 225.
-(pdftex.def)             Requested size: 229.5pt x 161.60634pt.
- [5 <./Imagenes/diodo con polarizacion directa.png> <./Imagenes/diodo con polarizacion inversa.png>]
-<Imagenes/circuito.png, id=201, 239.39438pt x 110.66344pt>
-File: Imagenes/circuito.png Graphic file (type png)
-<use Imagenes/circuito.png>
-Package pdftex.def Info: Imagenes/circuito.png  used on input line 279.
-(pdftex.def)             Requested size: 160.64929pt x 74.2623pt.
-<Imagenes/Montaje.jpg, id=205, 8222.72pt x 6167.04pt>
-File: Imagenes/Montaje.jpg Graphic file (type jpg)
-<use Imagenes/Montaje.jpg>
-Package pdftex.def Info: Imagenes/Montaje.jpg  used on input line 289.
-(pdftex.def)             Requested size: 160.64929pt x 120.4497pt.
-<Imagenes/termometro montaje 2.jpg, id=206, 6167.04pt x 8222.72pt>
-File: Imagenes/termometro montaje 2.jpg Graphic file (type jpg)
-<use Imagenes/termometro montaje 2.jpg>
-Package pdftex.def Info: Imagenes/termometro montaje 2.jpg  used on input line 296.
-(pdftex.def)             Requested size: 160.64929pt x 214.17464pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./Imagenes/circuito.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7 <./Imagenes/Montaje.jpg> <./Imagenes/termometro montaje 2.jpg>]
-<Imagenes/datos_0.01.jpg, id=240, 722.7pt x 433.62pt>
-File: Imagenes/datos_0.01.jpg Graphic file (type jpg)
-<use Imagenes/datos_0.01.jpg>
-Package pdftex.def Info: Imagenes/datos_0.01.jpg  used on input line 353.
-(pdftex.def)             Requested size: 229.5pt x 137.69597pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./Imagenes/datos_0.01.jpg>]
-<Imagenes/datos_0.05.jpg, id=256, 433.62pt x 578.16pt>
-File: Imagenes/datos_0.05.jpg Graphic file (type jpg)
-<use Imagenes/datos_0.05.jpg>
-Package pdftex.def Info: Imagenes/datos_0.05.jpg  used on input line 390.
-(pdftex.def)             Requested size: 229.5pt x 305.99988pt.
- [9 <./Imagenes/datos_0.05.jpg>] (c:\Users\USUARIO\Documents\Experimental_IV\Medida_de_la_constante_de_Boltzman\Build\build\main.bbl [10])
-<Imagenes/image.png, id=275, 558.58687pt x 543.53062pt>
-File: Imagenes/image.png Graphic file (type png)
-<use Imagenes/image.png>
-Package pdftex.def Info: Imagenes/image.png  used on input line 504.
-(pdftex.def)             Requested size: 229.5pt x 223.31343pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 513--515
-\OT1/cmr/m/n/10 el an^^Sali-sis de los da-tos por me-dio del si-guien-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--515
-\OT1/cmr/m/n/10 te en-la-ce: []$\OT1/cmtt/m/n/10 https : / / github . com / Jesus-[]Gamboa /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--515
-\OT1/cmtt/m/n/10 Experimental _ IV / blob / main / Medida _ de _ la _
- []
-
-[11 <./Imagenes/image.png>] (c:\Users\USUARIO\Documents\Experimental_IV\Medida_de_la_constante_de_Boltzman\Build\build\main.aux
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+] (c:\Users\USUARIO\Documents\Experimental_IV\Efecto_fotoeléctrico\Articulo\build\Informe_IV.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3893EB4A0A113D7F537BA6D51697AFE3;4717.
+Package rerunfilecheck Info: File `Informe_IV.out' has not changed.
+(rerunfilecheck)             Checksum: 83B869B2EB8C10F6B4D7CB1684F2CA62;277.
  ) 
 Here is how much of TeX's memory you used:
- 10914 strings out of 467871
- 173767 string characters out of 5417408
- 609117 words of memory out of 5000000
- 39589 multiletter control sequences out of 15000+600000
- 634237 words of font info for 63 fonts, out of 8000000 for 9000
+ 10665 strings out of 467871
+ 169007 string characters out of 5417408
+ 591782 words of memory out of 5000000
+ 39429 multiletter control sequences out of 15000+600000
+ 632342 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,1189b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on c:\Users\USUARIO\Documents\Experimental_IV\Medida_de_la_constante_de_Boltzman\Build\build\main.pdf (11 pages, 20830408 bytes).
+ 75i,9n,79p,310b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on c:\Users\USUARIO\Documents\Experimental_IV\Efecto_fotoeléctrico\Articulo\build\Informe_IV.pdf (1 page, 51856 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 40 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 

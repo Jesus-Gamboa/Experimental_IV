@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  8 MAY 2026 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.17)  9 MAY 2026 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,12 +316,12 @@ LaTeX Info: Redefining \% on input line 21.
 
 
 ] [2]
-Underfull \hbox (badness 3118) in paragraph at lines 103--103
+Underfull \hbox (badness 3118) in paragraph at lines 110--110
 []\OT1/cmr/bx/n/12 Pantallas de dio-dos org^^Sani-cos
  []
 
 [3]
-Underfull \hbox (badness 3000) in paragraph at lines 125--125
+Underfull \hbox (badness 3000) in paragraph at lines 132--132
 []\OT1/cmr/bx/n/12 Bondad de ajus-te y test de
  []
 
@@ -329,41 +329,41 @@ Underfull \hbox (badness 3000) in paragraph at lines 125--125
 Underfull \vbox (badness 3068) has occurred while \output is active []
 
  [4]
-Underfull \hbox (badness 2343) in paragraph at lines 162--163
+Underfull \hbox (badness 2343) in paragraph at lines 169--170
 []\OT1/cmr/m/n/10 Sea $\OML/cmm/m/it/10 x$ \OT1/cmr/m/n/10 una va-ria-ble alea-to-ria, tal que $\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (1.74261pt too wide) detected at line 166
+Overfull \hbox (1.74261pt too wide) detected at line 173
 [][][]\OML/cmm/m/it/10 ^^[[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^[[] [][] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^[[] [][] \OT1/cmr/m/n/10 + [] + 2\OML/cmm/m/it/10 ^^[[] [] []
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 204.
+(hyperref)                removing `math shift' on input line 211.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\epsilon' on input line 204.
+(hyperref)                removing `\epsilon' on input line 211.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 204.
+(hyperref)                removing `subscript' on input line 211.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 204.
+(hyperref)                removing `math shift' on input line 211.
 
 [5]
 <Imagenes/foto montaje actividad 4.jpg, id=229, 8222.72pt x 6167.04pt>
 File: Imagenes/foto montaje actividad 4.jpg Graphic file (type jpg)
 <use Imagenes/foto montaje actividad 4.jpg>
-Package pdftex.def Info: Imagenes/foto montaje actividad 4.jpg  used on input line 219.
+Package pdftex.def Info: Imagenes/foto montaje actividad 4.jpg  used on input line 226.
 (pdftex.def)             Requested size: 229.5pt x 172.11133pt.
 <Imagenes/esfera integradora.jpg, id=231, 8222.72pt x 6167.04pt>
 File: Imagenes/esfera integradora.jpg Graphic file (type jpg)
 <use Imagenes/esfera integradora.jpg>
-Package pdftex.def Info: Imagenes/esfera integradora.jpg  used on input line 230.
+Package pdftex.def Info: Imagenes/esfera integradora.jpg  used on input line 237.
 (pdftex.def)             Requested size: 229.5pt x 172.11133pt.
  [6 <./Imagenes/foto montaje actividad 4.jpg> <./Imagenes/esfera integradora.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -371,50 +371,50 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Imagenes/Comparación_con_el_ajuste.png, id=253, 578.16pt x 939.51pt>
 File: Imagenes/Comparación_con_el_ajuste.png Graphic file (type png)
 <use Imagenes/Comparación_con_el_ajuste.png>
-Package pdftex.def Info: Imagenes/Comparación_con_el_ajuste.png  used on input line 276.
+Package pdftex.def Info: Imagenes/Comparación_con_el_ajuste.png  used on input line 283.
 (pdftex.def)             Requested size: 229.5pt x 372.93019pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./Imagenes/Comparación_con_el_ajuste.png>]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 284.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 291.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 284.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 291.
 
 Missing character: There is no � in font cmr10!
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 291.
+(hyperref)                removing `math shift' on input line 298.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\chi' on input line 291.
+(hyperref)                removing `\chi' on input line 298.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 291.
+(hyperref)                removing `superscript' on input line 298.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 291.
+(hyperref)                removing `math shift' on input line 298.
 
 <Imagenes/Comparación_con_barras.png, id=267, 462.528pt x 346.896pt>
 File: Imagenes/Comparación_con_barras.png Graphic file (type png)
 <use Imagenes/Comparación_con_barras.png>
-Package pdftex.def Info: Imagenes/Comparación_con_barras.png  used on input line 295.
+Package pdftex.def Info: Imagenes/Comparación_con_barras.png  used on input line 302.
 (pdftex.def)             Requested size: 229.5pt x 172.12427pt.
 <Imagenes/extrapolado.png, id=272, 578.16pt x 433.62pt>
 File: Imagenes/extrapolado.png Graphic file (type png)
 <use Imagenes/extrapolado.png>
-Package pdftex.def Info: Imagenes/extrapolado.png  used on input line 309.
+Package pdftex.def Info: Imagenes/extrapolado.png  used on input line 316.
 (pdftex.def)             Requested size: 229.5pt x 172.12163pt.
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 322.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 322.
 
 Missing character: There is no � in font cmr10!
 
@@ -424,7 +424,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Imagenes/espectros_de_otras_lámparas.png, id=292, 668.2566pt x 1503.9387pt>
 File: Imagenes/espectros_de_otras_lámparas.png Graphic file (type png)
 <use Imagenes/espectros_de_otras_lámparas.png>
-Package pdftex.def Info: Imagenes/espectros_de_otras_lámparas.png  used on input line 329.
+Package pdftex.def Info: Imagenes/espectros_de_otras_lámparas.png  used on input line 336.
 (pdftex.def)             Requested size: 229.5pt x 516.49576pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -618,27 +618,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--99
 ) [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 357.
+(hyperref)                removing `math shift' on input line 364.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\chi' on input line 357.
+(hyperref)                removing `\chi' on input line 364.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 357.
+(hyperref)                removing `superscript' on input line 364.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 357.
+(hyperref)                removing `math shift' on input line 364.
 
 <Imagenes/valores críticos de chi-cuadrado.png, id=363, 558.58687pt x 543.53062pt>
 File: Imagenes/valores críticos de chi-cuadrado.png Graphic file (type png)
 <use Imagenes/valores críticos de chi-cuadrado.png>
-Package pdftex.def Info: Imagenes/valores críticos de chi-cuadrado.png  used on input line 360.
+Package pdftex.def Info: Imagenes/valores críticos de chi-cuadrado.png  used on input line 367.
 (pdftex.def)             Requested size: 328.29857pt x 319.46112pt.
 
-Underfull \hbox (badness 2205) in paragraph at lines 366--368
+Underfull \hbox (badness 2205) in paragraph at lines 373--375
 []\OT1/cmr/m/n/10 Se pue-de ac-ce-der al no-te-book en el que se reali-zo el an^^Sali-sis de los da-tos por me-dio del
  []
 
@@ -664,7 +664,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,2335b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\USUARIO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.pdf (13 pages, 20727755 bytes).
+Output written on c:\Users\USUARIO\Documents\Experimental_IV\Espectroscopía\Build\build\Espectroscopia.pdf (13 pages, 20727769 bytes).
 PDF statistics:
  469 PDF objects out of 1000 (max. 8388607)
  92 named destinations out of 1000 (max. 500000)
