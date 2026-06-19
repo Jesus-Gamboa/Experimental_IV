@@ -1,0 +1,61 @@
+rc
+Units:(mV),CH1
+Status:,Trigd
+SP:,0.050 uS
+PK-PK:,2.060 V
+rc4
+Save Time: 2026-06-12 18:07:27
+Units:(mV)
+,CH1
+Status:,Trigd
+Frequency:,?
+Period:,?
+SP:,0.250 uS
+PK-PK:,71.600 mV ?
+
+
+rlc1
+Save Time: 2026-06-12 18:17:13
+Units:(mV)
+,CH1
+Status:,Trigd
+Frequency:,?
+Period:,?
+SP:,0.025 uS
+PK-PK:,490.000 mV ?
+
+
+rlc2
+Save Time: 2026-06-12 18:20:58
+Units:(mV)
+,CH1
+Status:,Trigd
+Frequency:,110.132 kHz
+Period:,9.080 uS
+SP:,0.010 uS
+PK-PK:,102.000 mV ?
+
+
+rlc3
+Save Time:;2026-06-12 18:22:51
+;CH1
+Status:;Trigd
+Frequency:;?
+Period:;?
+SP:;0.005 uS
+PK-PK:;56.800 mV
+;
+;
+Units:(mV);
+
+rc2
+Save Time:;2026-06-12 17:57:23
+;CH1
+Status:;Trigd
+Frequency:;?
+Period:;?
+SP:;0.050 uS
+PK-PK:;510.000 mV ?
+;
+;
+Units:(mV);
